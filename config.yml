@@ -1,4 +1,26 @@
-baseURL: http://example.org/
+baseURL: https://brcha.com/
 languageCode: en-us
-title: My New Hugo Site
+title: "Brcha's website"
 theme: "PaperMod"
+
+params:
+  title: "Brcha's website"
+  description: ""
+  author: "Filip Brcic"
+
+  profileMode:
+    enabled: true
+    title: "Brcha's website"
+    subtitle: "Control systems engineer & developer"
+    imageUrl: "images/logoF-new-t.png"
+
+  socialIcons:
+    - name: email
+      url: "mailto:brcha@yandex.com"
+    - name: github
+      url: "https://github.com/brcha"
+    - name: gitlab
+      url: "https://gitlab.com/brcha"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/filip-br%C4%8Di%C4%87-2b19431a6/"
+
