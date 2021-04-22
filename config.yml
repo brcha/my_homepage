@@ -16,7 +16,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:brcha@yandex.com"
+      url: "https://mailhide.io/e/A3sZPT2n"
     - name: github
       url: "https://github.com/brcha"
     - name: gitlab
