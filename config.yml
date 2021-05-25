@@ -8,7 +8,7 @@ params:
   description: ""
   author: "Filip Brcic"
 
-  anaylyics.google.SiteVerificationTag: "UA-1576212-8"
+  googleAnalytics: "UA-1576212-8"
 
   profileMode:
     enabled: true
