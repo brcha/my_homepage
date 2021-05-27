@@ -3,12 +3,14 @@ languageCode: en-us
 title: "Brcha's website"
 theme: "PaperMod"
 
+# Enable Google Analytics
+googleAnalytics: "UA-1576212-8"
+
 params:
   title: "Brcha's website"
   description: ""
   author: "Filip Brcic"
 
-  googleAnalytics: "UA-1576212-8"
 
   profileMode:
     enabled: true
