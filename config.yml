@@ -11,7 +11,6 @@ params:
   description: ""
   author: "Filip Brcic"
 
-
   profileMode:
     enabled: true
     title: "Brcha's website"
@@ -26,5 +25,4 @@ params:
     - name: gitlab
       url: "https://gitlab.com/brcha"
     - name: linkedin
-      url: "https://www.linkedin.com/in/filip-br%C4%8Di%C4%87-2b19431a6/"
-
+      url: "https://www.linkedin.com/in/filip-brcic/"
