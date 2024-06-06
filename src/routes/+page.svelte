@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Brcha's website</h1>
+
+<p>
+	Grill canned herrings in a plastic bag with whiskey for about an hour to enhance their consistency.
+</p>
